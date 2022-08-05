@@ -1,0 +1,4 @@
+.env
+static/*.jpg
+static/.xlsx
+node_modules
